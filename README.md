@@ -8,6 +8,16 @@ First, Install all the Dependencies:
 npm install
 ```
 
+Introduce .env file in the main Directory:
+
+```bash
+DATABASE_URL=Your Databse
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=Your NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY
+CLERK_SECRET_KEY=Your CLERK_SECRET_KEY
+WEBHOOK_SECRET= Your WEBHOOK_SECRET
+CLERK_ENCRYPTION_KEY=By using openssl rand -base64 32
+```
+
 Build the Application:
 
 ```bash
