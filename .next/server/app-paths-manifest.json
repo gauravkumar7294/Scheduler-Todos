@@ -1,0 +1,17 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/subscription/route": "app/api/subscription/route.js",
+  "/api/admin/route": "app/api/admin/route.js",
+  "/api/admin/todos/route": "app/api/admin/todos/route.js",
+  "/api/todos/[id]/route": "app/api/todos/[id]/route.js",
+  "/api/webhook/register/register/route": "app/api/webhook/register/register/route.js",
+  "/api/todos/route": "app/api/todos/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/error/page": "app/error/page.js",
+  "/sign-up/page": "app/sign-up/page.js",
+  "/sign-in/page": "app/sign-in/page.js",
+  "/page": "app/page.js",
+  "/(authenticated)/dashboard/page": "app/(authenticated)/dashboard/page.js",
+  "/(authenticated)/admin/dashboard/page": "app/(authenticated)/admin/dashboard/page.js",
+  "/(authenticated)/subscribe/page": "app/(authenticated)/subscribe/page.js"
+}
